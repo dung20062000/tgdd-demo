@@ -1,5 +1,5 @@
 
-const productsApi = 'http://localhost:3000/products'  // Lấy API
+const productsApi = 'https://tgdd-demo.herokuapp.com/products'  // Lấy API
 
 
 
